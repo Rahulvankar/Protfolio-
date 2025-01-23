@@ -17,7 +17,7 @@ const About = () => {
                 <h2 className="heading">About Me</h2>
                 <h3>2 Year's Experience as Front End Developer</h3>
                 <p className='text-justify'>I have 2.5 years of experience as a Front-End Developer. My journey began with one year of intensive learning at Tops Technologies, where I honed my foundational skills. Over the past 1.5 years, I've worked professionally, specializing in Vue.js, React.js, and Nuxt.js. I excel at creating responsive and dynamic web applications.
-                    In addition to front-end expertise, I have a basic understanding of backend technologies like MongoDB, PHP, MySQL, and FileZilla. I’ve also developed Progressive Web Apps (PWAs), blending design and functionality to deliver engaging user experiences.</p>
+                    In addition to front-end expertise, I have a basic understanding of backend technologies like MongoDB, PHP, MySQL, and FileZilla. I’ve also developed Progressive Web Apps (PWA), blending design and functionality to deliver engaging user experiences.</p>
                 <div className="about-btn">
                     <button
                         className={activeTab === "skills" ? "active" : ""}
